@@ -1,2 +1,2 @@
 # botE
-<img src="logo.png" alt="alt text" width="200px" height="200px"/>
+<img src="logo.png" alt="alt text" width="100%" height="100%"/>
